@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "nscmem.h": "c",
+        "string.h": "c"
+    }
+}
